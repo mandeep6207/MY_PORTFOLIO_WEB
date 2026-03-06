@@ -44,7 +44,7 @@ portfolio-app/
 │   │   ├── ScrollProgress.js
 │   │   └── SectionWrapper.js
 │   ├── data/
-│   │   └── portfolio.js # All portfolio content (easy to edit)
+│   │   └── portfolio.js # All portfolio content
 │   └── sections/
 │       ├── About.js
 │       ├── Achievements.js
@@ -60,8 +60,6 @@ portfolio-app/
 ├── next.config.js       # Next.js configuration
 └── package.json
 ```
-
-## ✏️ Customization
 
 ### Content
 
