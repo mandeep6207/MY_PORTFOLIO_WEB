@@ -25,7 +25,7 @@
 ## 📁 Project Structure
 
 ```
-portfolio-app/
+MY_PORTFOLIO_WEB/
 ├── public/
 │   ├── images/          # Profile and project images
 │   ├── resume.pdf       # Downloadable resume
