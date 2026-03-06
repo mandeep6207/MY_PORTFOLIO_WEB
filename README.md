@@ -44,7 +44,7 @@ portfolio-app/
 │   │   ├── ScrollProgress.js
 │   │   └── SectionWrapper.js
 │   ├── data/
-│   │   └── portfolio.js # All portfolio content
+│   │   └── portfolio.js # All Portfolio content
 │   └── sections/
 │       ├── About.js
 │       ├── Achievements.js
@@ -63,7 +63,7 @@ portfolio-app/
 
 ### Content
 
-All content is centralized in `src/data/portfolio.js`. Edit this single file to update:
+All content is centralized in `src/data/portfolio.js`.
 
 - Personal info, links, and bio
 - Projects, experiences, skills
@@ -71,9 +71,9 @@ All content is centralized in `src/data/portfolio.js`. Edit this single file to 
 
 ### Design
 
-- **Colors**: Edit `tailwind.config.js` → `theme.extend.colors`
-- **Animations**: Edit `tailwind.config.js` → `theme.extend.animation`
-- **Styles**: Edit `src/app/globals.css` for glassmorphism, cursors, etc.
+- **Colors**: `tailwind.config.js` → `theme.extend.colors`
+- **Animations**:  `tailwind.config.js` → `theme.extend.animation`
+- **Styles**:  `src/app/globals.css` for glassmorphism, cursors, etc.
 
 
 Built with ❤️ by **Mandeep Kumar**
