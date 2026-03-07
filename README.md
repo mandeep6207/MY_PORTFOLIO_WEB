@@ -1,4 +1,4 @@
-# Mandeep Kumar — Personal Portfolio
+# MY — Personal Portfolio
 
 > A futuristic, dark-themed, production-ready portfolio website built with Next.js 14, Tailwind CSS, and Framer Motion.
 
